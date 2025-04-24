@@ -6,6 +6,7 @@ def zig_zag():
     dice_roll_history = {'player_1' : 0, 'player_2' : 0, 'player_3' : 0}
     position_history_players = {'player_1' : 0, 'player_2' : 0, 'player_3' : 0}
     grid_size = int(input("enter the no."))
+    
 
     
     while True:
